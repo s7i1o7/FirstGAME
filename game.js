@@ -146,7 +146,7 @@ function draw() {
       dy = -dy;
     }
     else {
-      alert("WAROTA");
+      alert("あきらめないで");
       document.location.reload();
       clearInterval(interval); // Needed for Chrome to end game
     }
